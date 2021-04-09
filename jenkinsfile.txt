@@ -11,4 +11,8 @@ node{
        echo 'Deploying ...'
    } 
 
+ stage("Mego"){
+       echo 'ya mego mabrouk...'
+   } 
+
 }
