@@ -1,4 +1,4 @@
-node{
+mego{
    stage('Build'){
        echo "Building ... "
     }
